@@ -57,5 +57,5 @@ Building transparent, explainable fraud intelligence solutions that combine oper
 
 ## Connect With Me
 
-- LinkedIn: *(add your LinkedIn URL)*
-- Email: *(your professional email)*
+- LinkedIn: *(www.linkedin.com/in/gururaj-gj-52a062b4)*
+- Email: *(gururaj.gj.guru@gmail.com)*
